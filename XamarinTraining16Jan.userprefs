@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{54EDC04F-8D6D-4A1F-B747-61FC4274CE49}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinTraining16Jan.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E057168E-5F1B-4A9B-BDD2-C4933A6B64CA">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.XamarinTraining16Jan.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinTraining16Jan/XamarinTraining16JanPage.xaml">
+    <Files>
+      <File FileName="XamarinTraining16Jan/XamarinTraining16JanPage.xaml" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
