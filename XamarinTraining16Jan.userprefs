@@ -1,10 +1,16 @@
 ﻿<Properties StartupConfiguration="{54EDC04F-8D6D-4A1F-B747-61FC4274CE49}|Default">
-  <MonoDevelop.Ide.ItemProperties.XamarinTraining16Jan.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E057168E-5F1B-4A9B-BDD2-C4933A6B64CA">
+  <MonoDevelop.Ide.ItemProperties.XamarinTraining16Jan.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E057168E-5F1B-4A9B-BDD2-C4933A6B64CA" automaticSigning="False">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.XamarinTraining16Jan.iOS>
-  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinTraining16Jan/XamarinTraining16JanPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinTraining16Jan/App.xaml.cs">
     <Files>
-      <File FileName="XamarinTraining16Jan/XamarinTraining16JanPage.xaml" Line="5" Column="1" />
+      <File FileName="XamarinTraining16Jan/XamarinTraining16JanPage.xaml" Line="11" Column="15" />
+      <File FileName="UITest/Tests.cs" Line="45" Column="10" />
+      <File FileName="UITest/AppInitializer.cs" Line="40" Column="69" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="XamarinTraining16Jan/XamarinTraining16JanPage.xaml.cs" Line="17" Column="10" />
+      <File FileName="XamarinTraining16Jan/App.xaml" Line="7" Column="1" />
+      <File FileName="XamarinTraining16Jan/App.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

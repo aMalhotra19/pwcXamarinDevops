@@ -1,0 +1,10 @@
+/Users/amalhotra030/Projects/XamarinTraining16Jan/UITest/bin/Debug/UITest.dll
+/Users/amalhotra030/Projects/XamarinTraining16Jan/UITest/bin/Debug/UITest.pdb
+/Users/amalhotra030/Projects/XamarinTraining16Jan/UITest/bin/Debug/nunit.framework.dll
+/Users/amalhotra030/Projects/XamarinTraining16Jan/UITest/bin/Debug/Xamarin.UITest.dll
+/Users/amalhotra030/Projects/XamarinTraining16Jan/UITest/bin/Debug/nunit.framework.xml
+/Users/amalhotra030/Projects/XamarinTraining16Jan/UITest/bin/Debug/Xamarin.UITest.xml
+/Users/amalhotra030/Projects/XamarinTraining16Jan/UITest/obj/Debug/UITest.csprojResolveAssemblyReference.cache
+/Users/amalhotra030/Projects/XamarinTraining16Jan/UITest/obj/Debug/UITest.csproj.CoreCompileInputs.cache
+/Users/amalhotra030/Projects/XamarinTraining16Jan/UITest/obj/Debug/UITest.dll
+/Users/amalhotra030/Projects/XamarinTraining16Jan/UITest/obj/Debug/UITest.pdb
